@@ -18,5 +18,7 @@ public class Main {
         customer1.introducePerson();
         customer2.introducePerson();
         employee.introducePerson();
+
+        System.out.println("Screw you! I'm gonna trash this place!");
     }
 }
